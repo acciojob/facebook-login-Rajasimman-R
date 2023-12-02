@@ -7,7 +7,7 @@
             height: 100vh;
         }
 
-        .section {
+        .left {
             width: 450px;
             margin-top: 70px;
             display: inline-block;
@@ -16,7 +16,7 @@
         form {
             display: flex;
             width: 300px;
-            background-color:rgba(0, 0, 0, 0);
+            background-color:white;
             padding: 20px;
             border-radius: 5px;
             box-shadow: 0 0 10px #ccc;
